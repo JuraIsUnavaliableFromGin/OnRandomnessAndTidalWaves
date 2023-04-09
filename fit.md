@@ -1,3 +1,9 @@
+# < 0
+s: 101 - s-max<br/>
+k: k-min - 998
+# 0 < 1
+s: 51 - s-max<br/>
+k: k-min - 1997
 # 1 < 2
 s: 34 - s-max<br/>
 k: k-min - 2996
